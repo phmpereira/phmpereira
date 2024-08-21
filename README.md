@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngarts.com%2Fexplore%2F13955&psig=AOvVaw1QwpHUazHiXQlz6OVl32Rd&ust=1724345424351000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDE-7jFhogDFQAAAAAdAAAAABAE" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Welcome+Everyone;I'm+Pedro+Morais)](https://git.io/typing-svg)
 - 👋 Hi, I’m @phmpereira
 - 🌱 I’m currently learning ..?
@@ -37,5 +37,3 @@
   <a href="https://www.linkedin.com/in/pedro-morais03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngarts.com%2Fexplore%2F13955&psig=AOvVaw1QwpHUazHiXQlz6OVl32Rd&ust=1724345424351000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDE-7jFhogDFQAAAAAdAAAAABAE"  style="transform: scaleX(-1);"/>
