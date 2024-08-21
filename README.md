@@ -1,3 +1,4 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngarts.com%2Fexplore%2F13955&psig=AOvVaw1QwpHUazHiXQlz6OVl32Rd&ust=1724345424351000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDE-7jFhogDFQAAAAAdAAAAABAE" />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Welcome+Everyone;I'm+Pedro+Morais)](https://git.io/typing-svg)
 - 👋 Hi, I’m @phmpereira
 - 🌱 I’m currently learning ..?
@@ -19,7 +20,9 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 </picture>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Mouras-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Mouras-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mouras-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mouras-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -34,3 +37,5 @@
   <a href="https://www.linkedin.com/in/pedro-morais03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngarts.com%2Fexplore%2F13955&psig=AOvVaw1QwpHUazHiXQlz6OVl32Rd&ust=1724345424351000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDE-7jFhogDFQAAAAAdAAAAABAE"  style="transform: scaleX(-1);"/>
