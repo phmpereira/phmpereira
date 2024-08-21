@@ -15,6 +15,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true" />
 </picture>
 
+<picture>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+</picture>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mouras-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mouras-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
